@@ -1,0 +1,41 @@
+Feedback Progetto di Programmazione ad Oggetti
+Studente: Seganfreddo Raul
+Valutazione del progetto: buono
+Voto finale dell'esame:
+
+Vincoli obbligatori
++ Soddisfatti
+
+
+Orientamento ad oggetti
++ Incapsulamento
++ Modularità (modello logico e la GUI sono separati)
+- A prima vista i dynamic_cast in view.cpp sembrano evitabili utilizzando
+  il polimorfismo, per esempio due metodi virtuali nelle classi concrete per
+  ottenere la larghezza e l'altezza massime (progettando un layout più fluido
+  il problema non si porrebbe nemmeno).
+
+
+Funzionalità
++ Funzionalità di filtro sulle date
+- Migliorabile prevedendo funzionalità aggiuntive, come ordinamento dei dati
+  o zoom nel grafico
+
+
+GUI
++ Visualizza i diversi tipi di dato in maniera opportuna
++ Usabile e intuitiva
++ Utilizza icone e stili
+- Non gestisce ridimensionamento
+
+
+Relazione
++ Adeguata
+
+
+Suggerimenti non collegati alla valutazione
+Rispetto all'affermazione "In alcuni punti è stata intenzionalmente
+violata la regola di separazione tra model e view [...]", utilizzare classi
+di Qt di per se non significa mescolare modello e vista, ci sono funzionalità
+di Qt pensate per essere utili anche in applicazioni command-line (per
+esempio l'I/O di file JSON, per cui Qt mette a disposizione alcune classi).
