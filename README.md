@@ -7,8 +7,8 @@ Questo progetto è scritto in **C++** con **framework Qt**.
 ||**Ambiente di sviluppo**|**Ambiente di test**|
 |---|---|---|
 |OS|Windows 11 WSL2(Ubuntu 22.04.1 LTS)|Ubuntu 18.04|
-|Versione qt|6.0.2|5.9.5|
-|Compilatore|GCC 11.3.0|GCC 7.3.0|
+|Versione qt|5.12.8|5.9.5|
+|Compilatore|GCC 11.2.0|GCC 7.3.0|
 |Build system|Qmake+make|Qmake+make|
 
 ## Struttura delle directory
