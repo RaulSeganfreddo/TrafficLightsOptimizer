@@ -18,8 +18,8 @@ Questo progetto è scritto in **C++** con **framework Qt**.
 - `view/`: contiene la vista dell'applicazione
 
 ## Note
-- Seriamente non ricordo gli autori delle icone palesemente ~~rubate~~*prese in prestito* da qualche sito che neanche ricordo. Ricordo solo che chiedevano di essere menzionati. Se qualcuno si offende mi scriva e metterò una bellissima targetta col vostro nome, vi voglio bene <3
-- Il progetto è stato svolto in circa 8 giorni (un botto di ore al giorno ci ho perso, trovate tutto nel dettaglio nella relazione) quindi visto il poco tempo a disposizione (colpa mia che mi sono preso tardi) alcune funzionalità di base non sono presenti (vedi che quando apri una nuova finestra si apre dove le pare, la odio) quindi si, scusatemi se provandola diventerete ciechi, ne sono consapevole :)
+- Seriamente non ricordo gli autori delle icone palesemente ~~rubate~~*prese in prestito*. Ricordo solo che chiedevano di essere menzionati. Se qualcuno si offende mi scriva e sistemiamo la cosa
+- Il progetto è stato svolto in circa 8 giorni (trovate tutto nel dettaglio nella relazione) quindi visto il poco tempo a disposizione (colpa mia che mi sono preso tardi) alcune funzionalità di base non sono presenti (ad esempio quando apri una nuova finestra si apre dove le pare)
 - Credo di non aver detto nella relazione che la gerarchia è stata disegnata con *draw.io*
 - Ho preso **buono** nella valutazione, non **eccellente** quindi non aspettatevi chissà che di applicazione, è il massimo che sono riuscito a fare in 8 giorni :/
-- Ah, ovviamente la valutazione la trovate nel file `valutazione.txt`, lì potrete vedere vari punti di forza e punti deboli notati dal Professore (non quello della Casa di Carta)
+- Ah, ovviamente la valutazione la trovate nel file `valutazione.txt`, lì potrete vedere vari punti di forza e punti deboli notati dal professore
